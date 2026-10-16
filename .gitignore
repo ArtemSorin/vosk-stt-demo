@@ -1,0 +1,6 @@
+models/*
+!models/.gitkeep
+target/
+.idea/
+*.iml
+reports/
